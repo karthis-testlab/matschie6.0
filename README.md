@@ -1,4 +1,4 @@
-Kindly create "**secret.properties**" file under the "**src/test/resources/**" mentioned location.
+Kindly create a "**secret.properties**" file under the "**src/test/resources/**" mentioned location.
 
 # Service Now API Secret Text
 service.now.password=your servicenow instance password
